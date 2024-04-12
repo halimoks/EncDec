@@ -1,2 +1,2 @@
 # EncDecr
-This handy encryption and decryption tool lets you change a message into something unreadable to others. It works by shifting each letter back two spaces in the alphabet. So, for example, 'o' becomes 'm'.
+This encryption and decryption tool offers a simple way to encode and decode messages. When you encrypt a message, it shifts each letter back two places in the alphabet. For example, 'o' becomes 'm'. To decrypt, just reverse the process by shifting each letter two places forward. It's an easy way to keep your messages secure and private!
